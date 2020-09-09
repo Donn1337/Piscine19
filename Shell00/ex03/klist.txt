@@ -1,0 +1,5 @@
+Credentials cache: API:E940CF99-C369-4EC2-A2CC-3B51411893BC
+        Principal: jvan-hol@S19.BE
+
+  Issued                Expires               Principal
+Sep  8 10:12:24 2020  Sep  8 20:12:13 2020  krbtgt/S19.BE@S19.BE
