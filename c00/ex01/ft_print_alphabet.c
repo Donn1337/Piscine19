@@ -1,6 +1,18 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_print_alphabet.c                                :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: jvan-hol <marvin@42.fr>                    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2020/09/11 08:00:18 by jvan-hol          #+#    #+#             */
+/*   Updated: 2020/09/11 08:21:48 by jvan-hol         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include <unistd.h>
 
-void ft_print_alphabet(void)
+void	ft_print_alphabet(void)
 {
 	write(1, "abcdefghijklmnopqrstuvwxyz", 26);
 }
